@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Shyam-pi/TurtleBot-Aruco-based-Maze-Completion/assets/57116285/937147e1-9fdd-48d8-95d2-5818cec30aa8)
 
-**Note**: This project was done in collaboration with <a [href='https://github.com/vedran97](https://github.com/theunknowninfinite)'>Jayasuriya Suresh</a> and <a href='https://github.com/SakshamV'>Saksham Verma</a> for ENPM809Y at the University of Maryland, College Park
+**Note**: This project was done in collaboration with <a href='https://github.com/theunknowninfinite'>Jayasuriya Suresh</a> and <a href='https://github.com/SakshamV'>Saksham Verma</a> for ENPM809Y at the University of Maryland, College Park
 
 ## Overview
 This project implements a ROS package for navigating a Turtlebot through a maze environment using Aruco markers for localization and object detection.
